@@ -29,7 +29,7 @@ foo() // => 'baz'
 
 Binds the functions in an object to the object itself and ignores other values. Returns the original object for convenience.
 
-##### obj
+##### object
 
 *Required*  
 Type: `object`
