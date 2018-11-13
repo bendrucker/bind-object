@@ -1,4 +1,4 @@
-# bind-object [![Build Status](https://travis-ci.org/bendrucker/bind-object.svg?branch=master)](https://travis-ci.org/bendrucker/bind-object)
+# bind-object [![Build Status](https://travis-ci.org/bendrucker/bind-object.svg?branch=master)](https://travis-ci.org/bendrucker/bind-object) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/bind-object.svg)](https://greenkeeper.io/)
 
 > Bind all methods in an object
 
